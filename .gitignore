@@ -1,4 +1,5 @@
 *
-!/.config/
-!/.config/mpv/**
 !.*
+!/.config/
+!/.config/mpv/
+!/.config/mpv/**
