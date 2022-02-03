@@ -1,0 +1,15 @@
+show dbs
+use test1
+show collections
+db.dropDatabase()
+showdbs
+show dbs
+use acme
+db
+db.createCollection('post')
+show collections
+db.posts.insert({     title: 'Post one',     body: 'Body of post one',     category: 'news',     likes: '69',     tags: ['news', 'events'],     user: { name: 'John doe', status: 'author'     },     date: Date() })
+db.netflix_titles.insert({     title: 'Post one',     body: 'Body of post one',     category: 'news',     likes: '69',     tags: ['news', 'events'],     user: { name: 'John doe', status: 'author'     },     date: Date() })
+db.netflix_titles.insert({     title: 'Post one',     body: 'Body of post one',     category: 'news',     likes: '69',     tags: ['news', 'events'],     user: { name: 'John doe', status: 'author'     },     date: Date() })
+show dbs
+db

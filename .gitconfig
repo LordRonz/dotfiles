@@ -1,0 +1,8 @@
+[user]
+	email = aarontanhar2000@gmail.com
+	name = LordRonz
+	signingkey = 9C2D3E8AE80AC6AB1B35CAAF9236A3C2326177A5
+[init]
+	defaultBranch = main
+[color]
+	ui = auto

@@ -1,0 +1,23 @@
+Code/
+Code\ -\ OSS/
+code-oss/
+chromium/
+Cypress/
+composer/
+discord/
+electron/
+Electron/
+MongoDB\ Compass/
+.env/
+Cache/
+mpv/watch_later
+node_modules
+Unknown\ Organization
+Visual\ Studio\ Live\ Share
+Code\ Cache
+logs
+*.log
+cache
+*.out
+LOG*
+log*
