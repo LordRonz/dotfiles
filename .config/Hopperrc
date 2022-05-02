@@ -1,0 +1,4 @@
+[KFileDialog Settings]
+Recent Files[$e]=flag,file:$HOME/Documents/gemastikctf/penyisihan/zoomers/Payload/zoomers.app/zoomers,file:$HOME/Documents/hacktoday/leak_a_flag/leak-a-flag/chall,file:$HOME/Documents/hacktoday/leak_a_flag/leak-a-flag/flag
+Recent URLs[$e]=file:$HOME/Documents/hacktoday/leak_a_flag/leak-a-flag/,file:$HOME/Documents/gemastikctf/penyisihan/zoomers/Payload/zoomers.app/
+detailViewIconSize=16

@@ -1,0 +1,39 @@
+[DownloadDialog Settings]
+Height 1080=540
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=1200px-Archlinux-icon-crystal-64.svg.png,file:///usr/share/backgrounds/archlinux/1200px-Archlinux-icon-crystal-64.svg.png
+Recent URLs[$e]=file:///usr/share/backgrounds/archlinux/
+detailViewIconSize=0
+
+[PlasmaRunnerManager]
+LaunchCounts=3 services_keys.desktop,5 services_applications:proxy.desktop,2 services_applications:fontinst.desktop,1 services_applications:org.flameshot.Flameshot.desktop,6 services_org.kde.yakuake.desktop,1 services_standard_actions.desktop,2 services_applications:kwinscripts.desktop,9 services_applications:chromium.desktop,7 services_applications:Zoom.desktop,1 services_applications:kwindecoration.desktop,1 services_applications:xampp-manager.desktop,1 services_applications:kcm_pulseaudio.desktop,4 services_componentchooser.desktop,2 services_applications:kcm_keys.desktop,1 services_kwincompositing.desktop,3 services_telegramdesktop.desktop,2 services_org.kde.ksysguard.desktop,3 services_systemsettings.desktop,1 services_applications:kcm_kwin_effects.desktop,1 services_applications:flameshot.desktop,1 services_khotkeys.desktop,1 services_kcm_splashscreen.desktop,1 services_applications:kcm_kscreen.desktop,5 services_spotify.desktop,2 services_discord.desktop,1 services_applications:kcm_desktoptheme.desktop,1 services_org.kde.konsole.desktop,1 services_fontinst.desktop,4 services_applications:pavucontrol.desktop,1 services_autostart.desktop,1 services_applications:xampp-control-panel.desktop,4 services_applications:simplescreenrecorder.desktop,1 services_applications:firefox.desktop,2 services_applications:systemsettings.desktop,1 services_kwindecoration.desktop,4 services_screenlocker.desktop,26 services_applications:discord.desktop,1 services_applications:org.qutebrowser.qutebrowser.desktop,12 services_termite.desktop,11 services_applications:org.kde.kile.desktop,4 services_kcm_sddm.desktop,2 services_kcm_kwin_effects.desktop,7 services_applications:kvantummanager.desktop
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=eDP1
+11=eDP-1
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=false
+contextMenuActionsAlwaysShown=
+currentLayout=Extended
+downloadWindowSize=800,550
+inAdvancedModeForEditSettings=false
+isAvailableGeometryBroadcastedToPlasma=true
+lastNonAssignedLayout=Extended
+launchers=
+layoutsColumnWidths=151,110,87,0
+layoutsWindowSize=700,689
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=2000
+showInfoWindow=true
+singleModeLayoutName=Extended
+version=2

@@ -1,0 +1,45 @@
+[Desktop Entry]
+FullScreen=false
+
+[KFileDialog Settings]
+Recent Files[$e]=Writeup Quals Hacktoday 2020 [91-DIVOC].pdf,file:$HOME/Documents/hacktoday/Writeup Quals Hacktoday 2020 [91-DIVOC].pdf
+Recent URLs[$e]=file:$HOME/Documents/hacktoday/
+detailViewIconSize=0
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPgAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Window-Maximized 1080x1920=true
+eDP-1 Height 1080=1050
+eDP-1 Height 1920x1080=1050
+eDP-1 Width 1920=1920
+eDP-1 Width 1920x1080=1920
+eDP-1 Window-Maximized 1080x1920=true
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition=0
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition=30
+eDP-1 YPosition 1920x1080=30
+
+[Recent Files]
+File1[$e]=$HOME/Documents/SPTJM_Mahasiswa_MSIB_Batch_2_Aaron_Christopher - Ааrоn Сhristорhеr.pdf
+File10[$e]=$HOME/Documents/Company-Based Capstone Proposal Format - Bangkit 2022 - OCR.pdf
+File2[$e]=$HOME/Documents/[SIAKAD-ITS] FRS Versi Cetak.pdf
+File3[$e]=$HOME/Documents/Resume_Embedded_System_Design_Process_Aaron_Christopher_07211940000055.pdf
+File4[$e]=$HOME/Downloads/Telegram Desktop/photo_2022-03-18_15-37-39.jpg
+File5[$e]=$HOME/Downloads/Telegram Desktop/top.jpg
+File6[$e]=$HOME/Documents/ILT_SS_Professional_Branding.pdf
+File7[$e]=$HOME/Documents/Laporan_Progres_Bel_Cerdas_Cermat.pdf
+File8[$e]=$HOME/Documents/Adaptability_Essay.pdf
+File9[$e]=$HOME/Documents/LAPORAN_PROGRESS_EMBED_Aaron_Christopher_07211940000055.pdf
+Name1[$e]=SPTJM_Mahasiswa_MSIB_Batch_2_Aaron_Christopher - Ааrоn Сhristорhеr.pdf
+Name10[$e]=Company-Based Capstone Proposal Format - Bangkit 2022 - OCR.pdf
+Name2[$e]=[SIAKAD-ITS] FRS Versi Cetak.pdf
+Name3[$e]=Resume_Embedded_System_Design_Process_Aaron_Christopher_07211940000055.pdf
+Name4[$e]=photo_2022-03-18_15-37-39.jpg
+Name5[$e]=top.jpg
+Name6[$e]=ILT_SS_Professional_Branding.pdf
+Name7[$e]=Laporan_Progres_Bel_Cerdas_Cermat.pdf
+Name8[$e]=Adaptability_Essay.pdf
+Name9[$e]=LAPORAN_PROGRESS_EMBED_Aaron_Christopher_07211940000055.pdf

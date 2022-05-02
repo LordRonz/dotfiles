@@ -16,3 +16,6 @@ export LESS_TERMCAP_us=$'\e[1;4;31m'
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
 . "$HOME/.cargo/env"
+export PATH="$PATH:$HOME/.spicetify"
+
+eval "$(starship init bash)"

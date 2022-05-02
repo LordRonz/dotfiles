@@ -1,0 +1,32 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[General]
+loginMode=emptySession
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1061726368000159322469100000011070002
+clientId2=1061726368000159175720300000058270016
+clientId3=1061726368000159322470000000011070004
+clientId4=1061726368000159322491800000011070005
+count=4
+discardCommand2[$e]=rm,$HOME/.config/session/yakuake_1061726368000159175720300000058270016_1593224991_854711
+program1=/usr/bin/latte-dock
+program2=/usr/bin/yakuake
+program3=pulseaudio
+program4=firefox
+restartCommand1=/usr/bin/latte-dock,-session,1061726368000159322469100000011070002_1593224991_854715
+restartCommand2=/usr/bin/yakuake,-session,1061726368000159175720300000058270016_1593224991_854711
+restartCommand3=
+restartCommand4=/usr/lib/firefox/firefox,--sm-client-id,1061726368000159322491800000011070005
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=lordronz
+userId2=lordronz
+userId3=lordronz
+userId4=lordronz

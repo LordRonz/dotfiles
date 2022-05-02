@@ -1,0 +1,20 @@
+[DownloadDialog Settings]
+Height 720=447
+Width 1280=699
+
+[FileDialogSize]
+Height 720=568
+Width 1280=833
+
+[KFileDialog Settings]
+Recent Files[$e]=1200px-Archlinux-icon-crystal-64.svg.png,file:$HOME/Documents/flameshot-shortcuts-kde,file:///usr/share/backgrounds/archlinux/arch-notext.png,file:$HOME/Downloads/1200px-Archlinux-icon-crystal-64.svg.png
+Recent URLs[$e]=file:///usr/share/backgrounds/archlinux/
+detailViewIconSize=0
+
+[KPropertiesDialog]
+Height 720=479
+Width 1280=451
+
+[Open-with settings]
+CompletionMode=1
+History=yak,termite,termi

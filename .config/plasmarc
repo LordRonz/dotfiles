@@ -1,0 +1,8 @@
+[Theme]
+name=moedark
+
+[Theme-plasmathemeexplorer]
+name=moedark
+
+[Wallpapers]
+usersWallpapers=/usr/share/backgrounds/archlinux/arch-notext.png,/home/lordronz/Downloads/1200px-Archlinux-icon-crystal-64.svg.png,/usr/share/backgrounds/archlinux/arch.png,/usr/share/backgrounds/archlinux/archlinux-underground.jpg,/usr/share/backgrounds/archlinux/archlinux-tribute.jpg,/usr/share/backgrounds/archlinux/archlinux-simplyblack.png,/usr/share/backgrounds/archlinux/archlinux-poolclouds.jpg,/usr/share/backgrounds/archlinux/archlinux-poison.jpg,/usr/share/backgrounds/archlinux/archlinux-luminous-uber.jpg,/usr/share/backgrounds/archlinux/archlinux-firestarter.jpg,/usr/share/backgrounds/archlinux/archlinux-elation.jpg,/usr/share/backgrounds/archlinux/archlinux-ekisho-carbonite.jpg,/usr/share/backgrounds/archlinux/archlinux-deep-aurora.jpg,/usr/share/backgrounds/archlinux/archlinux-carbonite-knight.jpg,/usr/share/backgrounds/archlinux/archlinux-burn.jpg,/usr/share/backgrounds/archlinux/archlinux-berry.jpg,/usr/share/backgrounds/archlinux/archlinux-arrival.jpg,/usr/share/backgrounds/archlinux/archlinux-aqua-vines.jpg,/usr/share/backgrounds/archlinux/archlinux-aftermath.jpg,/home/lordronz/moedark.png

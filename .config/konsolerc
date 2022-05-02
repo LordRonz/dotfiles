@@ -1,0 +1,35 @@
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[DownloadDialog Settings]
+Height 720=447
+Width 1280=699
+
+[Favorite Profiles]
+Favorites=
+
+[MainWindow]
+Height 1080=1080
+Height 720=300
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAAPgA////+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAAAygD///8AAAeAAAADqwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAASz/////AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Width 1280=433
+Width 1920=1920
+Window-Maximized 1080x1920=true
+Window-Maximized 720x1280=true
+eDP-1 Height 1080=653
+eDP-1 Height 1920x1080=997
+eDP-1 Width 1920=504
+eDP-1 Width 1920x1080=1920
+eDP-1 Window-Maximized 1080x1920=true
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition=0
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition=30
+eDP-1 YPosition 1920x1080=83
+
+[UiSettings]
+ColorScheme=Default

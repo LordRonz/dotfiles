@@ -1,0 +1,5 @@
+[Core Performance]
+TextHinting=Enabled
+
+[PageView]
+ShowSourceLocationsGraphically=true

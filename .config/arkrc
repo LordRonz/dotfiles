@@ -1,0 +1,164 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Documents/,$HOME/Documents/js/ronz-amogus-docs/static/img/,$HOME/Documents/js/test1/assets/img/,$HOME/Downloads/
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME,file:$HOME/Documents/coolyeah/visikom/nb/best.pt
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Documents/js/ronz-amogus-docs/static/img/,file:$HOME/Documents/js/ronz-amogus-docs/static/,file:$HOME/Documents/,file:$HOME/Documents/coolyeah/visikom/nb/
+detailViewIconSize=16
+
+[KTextEditor Document]
+Allow End of Line Detection=true
+BOM=false
+Backup Local=false
+Backup Prefix=
+Backup Remote=false
+Backup Suffix=~
+Camel Cursor=true
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=true
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=4
+Keep Extra Spaces=false
+Line Length Limit=10000
+Newline at End of File=true
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=0
+ReplaceTabsDyn=true
+Show Spaces=0
+Show Tabs=true
+Smart Home=true
+Swap Directory=
+Swap File Mode=1
+Swap Sync Interval=15
+Tab Handling=2
+Tab Width=4
+Trailing Marker Size=1
+Word Wrap=false
+Word Wrap Column=80
+
+[KTextEditor Editor]
+Encoding Prober Type=1
+Fallback Encoding=ISO 8859-15
+
+[KTextEditor Renderer]
+Animate Bracket Matching=false
+Auto Color Theme Selection=true
+Color Theme=Breeze Dark
+Font=MesloLGS NF,9,-1,5,50,0,0,0,0,0
+Schema=Normal
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[KTextEditor View]
+Allow Mark Menu=true
+Auto Brackets=false
+Auto Center Lines=0
+Auto Completion=true
+Auto Completion Preselect First Entry=true
+Backspace Remove Composed Characters=false
+Bookmark Menu Sorting=0
+Bracket Match Preview=false
+Chars To Enclose Selection=
+Default Mark Type=1
+Dynamic Word Wrap=true
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap At Static Marker=false
+Dynamic Word Wrap Indicators=1
+Dynamic Wrap not at word boundaries=false
+Fold First Line=false
+Folding Bar=true
+Folding Preview=true
+Icon Bar=false
+Input Mode=0
+Keyword Completion=true
+Line Modification=false
+Line Numbers=false
+Maximum Search History Size=100
+Mouse Paste At Cursor Position=false
+Persistent Selection=false
+Scroll Bar Marks=false
+Scroll Bar Mini Map All=true
+Scroll Bar Mini Map Width=60
+Scroll Bar MiniMap=true
+Scroll Bar Preview=true
+Scroll Past End=false
+Search/Replace Flags=140
+Show Line Count=false
+Show Scrollbars=0
+Show Word Count=false
+Smart Copy Cut=false
+Text Drag And Drop=true
+User Sets Of Chars To Enclose Selection=
+Vi Input Mode Steal Keys=false
+Vi Relative Line Numbers=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOrAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Window-Maximized 720x1280=true
+eDP-1 Height 1920x1080=997
+eDP-1 Width 1920x1080=1920
+eDP-1 Window-Maximized 1080x1920=true
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition=658
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition=71
+eDP-1 YPosition 1920x1080=83
+splitterSizes=1277,639
+
+[Open-with settings]
+CompletionMode=1
+History=okular,okula,ok,oku,vim,okul
+
+[Recent Files]
+File1[$e]=$HOME/Documents/Final_Evaluation_PSD.docx
+File10[$e]=$HOME/Documents/b201/my-portfolio.zip
+File2[$e]=$HOME/Documents/Startup_AMOGUSCO.pptx
+File3[$e]=$HOME/Documents/laporan_fp_jarkom_pelex.docx
+File4[$e]=$HOME/uploads.zip
+File5[$e]=$HOME/Documents/247ctf/9353ba2f7ad8f5d85cbbfebd1471efb758d6911a.zip
+File6[$e]=$HOME/Documents/ungoogled-chromium.tar.xz
+File7[$e]=$HOME/Documents/07211940000055_Aaron_Christopher.zip
+File8[$e]=$HOME/Documents/gemastikctf/penyisihan/zoomers/zoomers.ipa
+File9[$e]=$HOME/Documents/b201/2056_simple_life.zip
+Name1[$e]=Final_Evaluation_PSD.docx
+Name10[$e]=my-portfolio.zip
+Name2[$e]=Startup_AMOGUSCO.pptx
+Name3[$e]=laporan_fp_jarkom_pelex.docx
+Name4[$e]=uploads.zip
+Name5[$e]=9353ba2f7ad8f5d85cbbfebd1471efb758d6911a.zip
+Name6[$e]=ungoogled-chromium.tar.xz
+Name7[$e]=07211940000055_Aaron_Christopher.zip
+Name8[$e]=zoomers.ipa
+Name9[$e]=2056_simple_life.zip
+
+[Viewer]
+Height 720=124
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOrAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Width 1280=317
+eDP-1 Height 1080=402
+eDP-1 Height 1920x1080=402
+eDP-1 Width 1920=446
+eDP-1 Width 1920x1080=446
+eDP-1 Window-Maximized 1080x1920=true
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition=0
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition=30
+eDP-1 YPosition 1920x1080=30

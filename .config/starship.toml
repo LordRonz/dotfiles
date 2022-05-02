@@ -1,0 +1,17 @@
+format = "  $all"
+right_format = "$battery$time"
+
+[[battery.display]]
+threshold = 30
+
+[localip]
+disabled = false
+
+[status]
+disabled = false
+
+[time]
+time_format = "%T"
+format = "🕙 $time($style) "
+style = "bright-white"
+disabled = false

@@ -1,0 +1,12 @@
+[MainWindow]
+CommandList=
+HostList=
+MenuBar=Disabled
+SelectedSheets[$e]=ProcessTable.sgrd,SystemLoad2.sgrd
+SplitterSizeList=10,90
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAP5AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Window-Maximized 1080x1920=true
+Window-Maximized 720x1280=true
+currentSheet=1
+isMinimized=false
