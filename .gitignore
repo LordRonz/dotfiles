@@ -11,6 +11,7 @@
 .viminfo
 .vim
 .histfile
+!/requirements.txt
 !/.config/
 !/.config/**/*.conf
 !/.config/**/*rc
