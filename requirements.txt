@@ -163,7 +163,7 @@ pbr==5.8.1
 pep517==0.12.0
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==9.1.0
+Pillow==9.1.1
 pipenv==2022.4.30
 pipreqs==0.4.11
 platformdirs==2.5.2
