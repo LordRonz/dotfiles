@@ -122,7 +122,7 @@ linecache2==1.0.0
 lit==14.0.0
 louis==3.21.0
 lxml==4.8.0
-Mako==1.2.0
+Mako==1.2.2
 Markdown==3.3.6
 MarkupSafe==2.1.1
 matplotlib==3.5.1
