@@ -34,7 +34,7 @@ btrfsutil==5.17
 CacheControl==0.12.11
 cachetools==5.0.0
 capstone==4.0.2
-certifi==2021.10.8
+certifi==2022.12.7
 cffi==1.15.0
 chardet==4.0.0
 charset-normalizer==2.0.12
