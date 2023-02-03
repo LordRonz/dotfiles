@@ -54,7 +54,7 @@ discord==1.7.3
 discord.py==1.7.3
 distlib==0.3.4
 distro==1.7.0
-Django==4.0.4
+Django==4.0.9
 dnspython==2.2.1
 docker==5.0.3
 dockerpty==0.4.1
